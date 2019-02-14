@@ -4,7 +4,7 @@ mini sns 어플리케이션 제작
 
 
 ## Environment / Requirement
-AndroidStudio
+AndroidStudio  
 Windows10  
 Firebase
 
